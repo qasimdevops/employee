@@ -1,8 +1,8 @@
 {
-  "name": "insert-title-here",
+  "name": "Employee",
   "version": "1.0.0",
   "main": "app.js",
-  "description": "Insert description here",
+  "description": "Employee application",
   "scripts": {
 	"start": "node app.js"
   },
