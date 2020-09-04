@@ -7,6 +7,6 @@
 	"start": "node app.js"
   },
   "dependencies": {
-    "mongodb": "~2.0"
+    "mongodb": ">=3.1.13"
   }
 }
