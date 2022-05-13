@@ -10,4 +10,4 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- task: bash echo "Hello world"
+- bash: echo "Hello world"
